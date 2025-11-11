@@ -12,3 +12,14 @@ body{
 img{
     width: 40%;
 }
+h1{
+    text-align: center;
+    font-size: 2rem;
+    color: black;
+    
+}
+
+p{
+    text-align: center;
+   
+}
